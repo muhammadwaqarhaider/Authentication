@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252450586053",
+    "project_id": "fir-2ce4d",
+    "storage_bucket": "fir-2ce4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252450586053:android:35de458d6fd6d914df5fac",
+        "android_client_info": {
+          "package_name": "com.waqar.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252450586053-tfsb7up49lfsb54u1adpm8f38e9llasm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5WgiwkN0CqPItLFvKbkwOL-JTlCRuybw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252450586053-tfsb7up49lfsb54u1adpm8f38e9llasm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
